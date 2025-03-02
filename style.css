@@ -13,6 +13,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     background: #43A047;
+    padding: 1rem;
 }
 
 .container{
